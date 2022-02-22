@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
-  <img src="assets/img/LoreStore" alt="Lore Store" />
+  <img src="assets/css/img/LoreStore.png" alt="Lore Store" />
 
   &#xa0;
 
-  < <a href="https://lore-store.vercel.app/">Deploy</a> -->
+  < <a href="https://lore-store.vercel.app/">Deploy</a> >
 </div>
 
 <h1 align="center">Lore Store</h1>
@@ -26,11 +26,11 @@
 
 <-- Status -->
 
-<-- <h4 align="center"> 
+<h4 align="center"> 
 	🚧  Lore Store 🚀 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -45,7 +45,7 @@
 ## :dart: About ##
 
 Projeto de uma AppStore usando grids.
-Esse é o Projeto final do curso "CSS Grid: Simplificando layouts" da - [Alura](https://cursos.alura.com.br/course/css-grid-layout).
+Esse é o Projeto final do curso "CSS Grid: Simplificando layouts" da [Alura](https://cursos.alura.com.br/course/css-grid-layout).
 
 
 ## :rocket: Technologies ##
