@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
-  <img src="/../img/LoreStore" alt="Lore Store" />
+  <img src="assets/img/LoreStore" alt="Lore Store" />
 
   &#xa0;
 
-  <!-- <a href="https://lorestore.netlify.app">Demo</a> -->
+  < <a href="https://lore-store.vercel.app/">Deploy</a> -->
 </div>
 
 <h1 align="center">Lore Store</h1>
@@ -34,9 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/loresgarcia" target="_blank">Author</a>
