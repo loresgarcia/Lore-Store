@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="assets/css/img/LoreStore.png" alt="Lore Store" />
+  <!-- <img src="Lore-Store/raw/main/assets/css/img/LoreStore.png" alt="Lore Store" /> -->
 
   &#xa0;
 
